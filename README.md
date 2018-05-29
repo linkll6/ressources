@@ -18,6 +18,9 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [FR] [Nuancier des différent bois](http://cerre.pagesperso-orange.fr/poster/pages%20vignettes/index_01.htm)
 - [FR] [Info sur les colles en ébénisterie](http://www.hmb-bda.fr/colles.php)
 - [FR] [Le vernis au tampon](http://telephoniste.free.fr/restauration/VernisTampon/)
+- [FR] [Xylothéque ](http://www.xycol.net)
+- [FR] [Les altérations du Bois](http://passion.bois.free.fr/le%20materiau%20bois/les%20alterations%20du%20bois/les%20alterations%20du%20bois.htm)
+- [FR] [Le Dictionnaire Pratique de Menuiserie-Ebénisterie-Charpente](http://justinstorck.free.fr/)
 
 ## Usinage et CNC
 - [FR] [Forum Usinages FR](https://www.usinages.com/forums/)
